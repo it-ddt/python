@@ -1,0 +1,7 @@
+Открываем Sublime Text
+В меню выбираем Tools/Build System/New Build System
+В открытой вкладке удаляем весь текст
+Копируем текст из файла Python-CMD.sublime-build и вставляем в пустую вкладку
+Сохраняем файл с любым именем и расширеннием .sublime-build (например my-build.sublime-build)
+В меню Tools/Build System выбираем имя только что созданного файла
+Теперь в Sublime Text можно выполнять код на Питоне горячими клавишами ctrl+B
